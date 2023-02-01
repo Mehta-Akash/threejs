@@ -11,10 +11,16 @@
     "@chakra-ui/theme-tools": "^2.0.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.9.0",
+    "@react-three/drei": "^9.56.1",
+    "@react-three/fiber": "8.8",
+    "@types/three": "^0.148.1",
     "framer-motion": "^6.3.0",
+    "leva": "^0.9.34",
     "next": "latest",
+    "r3f-perf": "6.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "three": "^0.145.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
